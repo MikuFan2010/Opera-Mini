@@ -1,5 +1,6 @@
 # Opera-Mini
 OPERA Mini browser version for kindle fires, no joke better then silk
+<img src="https://tse1.mm.bing.net/th/id/OIP.70NSPh10hD8nBj48rBhDzwHaHa?pid=ImgDetMain&o=7&rm=3" 
 
 READ THIS BEFORE DOWNLOADING: THE PROJECT TO RESCUE YOUR TABLET FROM THE JUNK DRAWER
 1. LEGAL STUFF (COPYRIGHTS AND TRADEMARKS)
